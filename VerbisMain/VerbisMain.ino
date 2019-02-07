@@ -5,7 +5,7 @@
 /*
  * * ESP8266 template with phone config web page
  * based on BVB_WebConfig_OTA_V7 from Andreas Spiess https://github.com/SensorsIot/Internet-of-Things-with-ESP8266
- *
+ * and ESPBASE from Pedro Albuquerque https://github.com/Pedroalbuquerque/ESPBASE
  */
 #include <ESP8266WiFi.h>
 #include <ESP8266WebServer.h>
