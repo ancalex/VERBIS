@@ -4,7 +4,7 @@
 const char PAGE_SetTime[] PROGMEM = R"=====(
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<a href="/"  class="btn btn--s"><</a>&nbsp;&nbsp;<strong>Set exact time</strong>
+<a href="/"  class="btn btn--s"><</a>&nbsp;&nbsp;<strong>Manual time setting</strong>
 <hr>
 <form action="" method="get">
 <table border="0"  cellspacing="0" cellpadding="3" >
