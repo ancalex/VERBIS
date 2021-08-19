@@ -45,6 +45,19 @@
 #include "EN/Page_DisplaySettings_EN.h"
 #endif
 
+#ifdef FR_clock
+// Include localized hour generation functions
+#include "FR/HourStrings_FR.h"
+#include "FR/TimeGen_FR.h"
+// Include the localized HTML "Pages"
+#include "FR/Page_Admin_FR.h"
+#include "FR/Page_NTPSettings_FR.h"
+#include "FR/Page_Information_FR.h"
+#include "FR/Page_NetworkConfiguration_FR.h"
+#include "FR/Page_SetTime_FR.h"
+#include "FR/Page_DisplaySettings_FR.h"
+#endif
+
 #ifdef RO_clock
 // Include localized hour generation functions
 #include "RO/HourStrings_RO.h"
